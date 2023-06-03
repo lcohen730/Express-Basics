@@ -13,7 +13,7 @@ The following routes were created for this multi-purpose Express.js application:
 ## Greetings
 
 The route '/greeting' should display the greeting "Hello, You."
-The route '/greeting/:name' should display the greeting "You know your way around a webpage, <name>.", where <name> is the inputed name in the URL.
+The route '/greeting/:name' should display the greeting "You know your way around a webpage, [name].", where [name] is the inputed name in the URL.
 
 ## Tip Calculator
 
